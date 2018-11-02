@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="et_searchfield">Search Here...</string>
+    <string name="btn_search">Search</string>
+    <string name="tv_result">judul</string>
+    <string name="tv_judul">Judul</string>
+    <string name="tv_release">Release Date :</string>
+    <string name="tv_daterelease">9 Desember 1995</string>
+    <string name="Sinopsis">SINOPSIS</string>
+    <string name="detail_overview">anu sinopsisnya kang</string>
+    <string name="tv_movieTitle">Judul</string>
+    <string name="tv_descMovie">iki sinopsis soko film e</string>
+    <string name="tv_dateMovie">Sabtu, 9 Desember 1995</string>
+
+</resources>
